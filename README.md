@@ -1,9 +1,6 @@
-# 42-cursus
-My journey through the 42 Málaga common core 🚀
-
 # 42 Cursus
 
-My journey through the common core at [42 Málaga](https://www.42malaga.com/).
+My journey through the common core at [42 Málaga](https://www.42malaga.com/) 🚀
 
 ## About 42
 
